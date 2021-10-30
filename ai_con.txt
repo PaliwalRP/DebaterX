@@ -1,0 +1,24 @@
+In healthcare industries, One of the biggest risks that AI in healthcare holds is that the AI system might at times be wrong, for instance, if it suggests a wrong drug to a patient or makes an error in locating a tumor in a radiology scan,or commits some mistake during surgeries could result in the patient’s injury or dire health-related consequences. 
+AI errors are potentially different for at least two reasons,while errors can obviously take place by human medical professionals as well yet what makes this crucial is that an underlying error, an error in an AI system could lead to injuries for thousands of patients.
+
+Yet another threat posed by AI systems is decision making, training these systems requires massive amounts of data from multiple sources which include pharmacy records, electronic health records, insurance claims records, etc.  
+Since the data is fragmented and patients often see different providers or switch insurance companies the data gets complicated and less comprehensible as a result of which the risk of error and the cost of data collection escalates. 
+
+There is a lack of Personal Connections while smart machines improve the education experience, they should not be considered a substitute for personal interaction. Relying too much on these machines to grade or tutor may lead to educational oversights that hurt learners more than help.
+	
+Unemployment, Making teaching more efficient could create less of a demand for educators, engineers in manufacturing industries and workers in various fields which will lead to shortage of jobs and opportunities.
+
+The use of artificial intelligence in various sectors comes at a very high cost. 
+
+The fact that it is applied in almost all sports management areas makes it even more expensive to run, the technology will continue to improve, so there will be a constant need to update and upgrade both software and hardware of the artificial intelligence technology. 
+
+Despite common notions of AI of being good, in regard with mental health, it can limit the thought processes of human since they largely rely on machines for doing all their work.
+
+The excessive use of ai like self driving cars and other technologies can be life threating or even kill people due to insufficient experience in real world scenarios.
+
+In business sector, programs may have loopholes,this could compromise the safety of data entrusted to the AI and could threaten the future of a company, so it’s important to pay special attention to the security of such software.
+
+
+
+
+
